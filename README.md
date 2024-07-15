@@ -5,4 +5,18 @@ In this learning roadmap I will share the steps I have taken so far, to improve 
 ## Mathematics:
 1. Algebra:
    - Exponent Rules
-   - 
+   - Factoring
+   - Graphs and equations
+  
+2. Python:
+      - Strings, Integers
+      - List
+      - Dictionary
+3. Data Structure in Python:
+      - Stack
+      - Queue
+      - Tree
+         * General Tree
+         * Binary Tree
+         * Binary Search Tree
+       - 
