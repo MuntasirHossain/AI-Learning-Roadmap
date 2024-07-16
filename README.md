@@ -19,3 +19,10 @@ In this learning roadmap I will share the steps I have taken so far, to improve 
          * General Tree
          * Binary Tree
          * Binary Search Tree
+            + Build Tree
+            + Add Child Node
+            + Traversal: In Order, Pre Order, Post Order
+            + Search for a value
+            + Determine tree depth
+            + Find the maximum and minimum
+            + 
