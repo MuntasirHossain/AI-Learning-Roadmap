@@ -25,4 +25,5 @@ In this learning roadmap I will share the steps I have taken so far, to improve 
             + Search for a value
             + Determine tree depth
             + Find the maximum and minimum value
-            + Delete a child from a tree
+            + Delete a value from a tree
+      - Graph
