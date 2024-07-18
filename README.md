@@ -45,8 +45,12 @@ In this learning roadmap I will share the steps I have taken so far, to improve 
 1. Git
    - Basics of git
    - Commands:
-     + Git status
+     + Git status (Check for uncommitted changes)
      + Add
      + Commit
      + Push
      + Pull
+          * git pull origin main
+               1. Fast forward merge: If local branch has no new commits to remote branch, git pull will update local branch to match the remote branch without any merge conflicsts.
+               2. Merge conflicts: Same file changed in local and remote. Need to resolve confilcts.
+               3. Uncommitteed change: File is changed in local, but not committed to remote. Eiher commit or stash the changes in local. Then pull will work.
