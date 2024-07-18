@@ -6,6 +6,7 @@ In this learning roadmap I will share the steps I have taken so far, to improve 
 1. Algebra:
    - Exponent Rules
    - Factoring
+   - Functions
    - Graphs and equations
   
 2. Python:
@@ -16,7 +17,7 @@ In this learning roadmap I will share the steps I have taken so far, to improve 
         + There are three steps in recurstion:
              * Divide big problem into small and simple problems
              * Find a base condition with simple answer
-             * Return or roll back ansewr for base condition to solve all sub problems
+             * Return or roll back answer for base condition to solve all sub problems
 3. Data Structure in Python:
       - Stack
       - Queue
