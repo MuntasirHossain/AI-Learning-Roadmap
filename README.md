@@ -9,6 +9,7 @@ In this learning roadmap I will share the steps I have taken so far, to improve 
    - Functions
    - Graphs and equations
   
+## Programming:
 2. Python:
       - Strings, Integers
       - List
@@ -33,3 +34,9 @@ In this learning roadmap I will share the steps I have taken so far, to improve 
             + Find the maximum and minimum value
             + Delete a value from a tree
       - Graph
+        
+## Framework for Web Developement:
+1. Laravel:
+     - Laravel Basics
+     - Frontend
+     - Backend
