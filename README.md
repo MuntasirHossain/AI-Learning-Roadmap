@@ -45,6 +45,7 @@ In this learning roadmap I will share the steps I have taken so far, to improve 
 1. Git
    - Basics of git
    - Commands:
+     + Git status
      + Add
      + Commit
      + Push
