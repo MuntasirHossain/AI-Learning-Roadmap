@@ -12,6 +12,11 @@ In this learning roadmap I will share the steps I have taken so far, to improve 
       - Strings, Integers
       - List
       - Dictionary
+      - Recursion
+        + There are three steps in recurstion:
+             * Divide big problem into small and simple problems
+             * Find a base condition with simple answer
+             * Return or roll back ansewr for base condition to solve all sub problems
 3. Data Structure in Python:
       - Stack
       - Queue
