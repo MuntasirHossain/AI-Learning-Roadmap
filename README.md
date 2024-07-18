@@ -11,32 +11,41 @@ In this learning roadmap I will share the steps I have taken so far, to improve 
   
 ## Programming:
 2. Python:
-      - Strings, Integers
-      - List
-      - Dictionary
-      - Recursion
-        + There are three steps in recurstion:
+   - Strings, Integers
+   - List
+   - Dictionary
+   - Recursion
+       + There are three steps in recurstion:
              * Divide big problem into small and simple problems
              * Find a base condition with simple answer
              * Return or roll back answer for base condition to solve all sub problems
 3. Data Structure in Python:
-      - Stack
-      - Queue
-      - Tree
-         * General Tree
-         * Binary Tree
-         * Binary Search Tree
-            + Build a Tree
-            + Add Child Node
-            + Traversal: In Order, Pre Order, Post Order
-            + Search for a value
-            + Determine tree depth
-            + Find the maximum and minimum value
-            + Delete a value from a tree
-      - Graph
+   - Stack
+   - Queue
+   - Tree
+       * General Tree
+       * Binary Tree
+       * Binary Search Tree
+          + Build a Tree
+          + Add Child Node
+          + Traversal: In Order, Pre Order, Post Order
+          + Search for a value
+          + Determine tree depth
+          + Find the maximum and minimum value
+          + Delete a value from a tree
+   - Graph
         
 ## Framework for Web Developement:
 1. Laravel:
-     - Laravel Basics
-     - Frontend
-     - Backend
+   - Laravel Basics
+   - Frontend
+   - Backend
+  
+## Version Control System:
+1. Git
+   - Basics of git
+   - Commands:
+     + Add
+     + Commit
+     + Push
+     + Pull
